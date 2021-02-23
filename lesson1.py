@@ -143,10 +143,12 @@ dictionary = {'name': 'Max', 'age': 13}
 # else:
 #     print('Finish')
 # print(type(range(100)))
-l1 = [5,8,1,3,8]
-
-for i in l1[::2]:
-    print(i)
+# l1 = [5,8,1,3,8]
+#
+# for i in l1[::2]:
+#     print(i)
 
 # for k, v in dictionary.items():
 #     print(v)
+
+

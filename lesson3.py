@@ -207,6 +207,7 @@ class User:
 
     def __sub__(self, other):
         return self.age - other.age
+
     def __mul__(self, other):
         return self.age * other.age
 
